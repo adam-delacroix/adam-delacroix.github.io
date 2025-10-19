@@ -34,7 +34,7 @@
 [[main]]
   name = "About"
   weight = 5
-  pageRef = "abt/me"
+  pageRef = "abt"
 
 #[[main]]
 #  name = "example sub-menu 1"
