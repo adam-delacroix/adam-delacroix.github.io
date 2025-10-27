@@ -21,8 +21,24 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-
 Hi, I'm Adam, husband and dom.
+
+A few considerations before anything else.
+
+{{< alert >}}
+My wife and I are strictly monogamous, and are not looking for sexual partners, but we do like to socialize.
+
+We are not a professional, do not offer any form of paid services, and never will.
+
+This website is not a proxy for paid content.
+
+The projects that I eventually describe in this website are not for sale but feel free to replicate them.
+
+If you reach out on Fet or via mail, I may take some time to respond but I promise I will.
+
+{{< /alert >}}
+
+Now that this is said, let's begin. 
 
 I have created this website for two purposes.
 
@@ -55,15 +71,8 @@ One of my goals with this website is to provide technically-focused information 
 
 ## How to reach out.
 
-If you have questions about the projects that I describe, or about impact play in general, please don’t hesitate to friend+DM me on Fet at adam_delacroix, or to send me a mail at the address linked in the home page, but please keep the disclaimers listed on the bottom of this page in mind.
+If you have questions about the projects that I describe, or about impact play in general, please don’t hesitate to friend+DM me on Fet at adam_delacroix, or to send me a mail at the address linked in the home page, but please keep the disclaimers listed at the top of this page in mind.
 
 I hope that you will find my website useful.
 
-## Disclaimers
-
-My wife and I are strictly monogamous, and are not looking for sexual partners.
-
-The projects that I describe in this website are not for sale.
-
-I may take some time to respond but I promise I will.
 
