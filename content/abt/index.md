@@ -28,7 +28,7 @@ A few considerations before anything else.
 {{< alert >}}
 My wife and I are strictly monogamous, and are not looking for sexual partners, but we do like to socialize.
 
-We are not a professional, do not offer any form of paid services, and never will.
+We are not professionals, do not offer any form of paid services, and never will.
 
 This website is not a proxy for paid content.
 

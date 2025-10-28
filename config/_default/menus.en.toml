@@ -23,7 +23,7 @@
 
 [[main]]
   name = "Impact play"
-  pageRef = "categories/impact_play"
+  pageRef = "categories/impact-play"
   weight = 3
 
 [[main]]
