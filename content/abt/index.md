@@ -71,7 +71,7 @@ One of my goals with this website is to provide technically-focused information 
 
 ## How to reach out.
 
-If you have questions about the projects that I describe, or about impact play in general, please don’t hesitate to friend+DM me on Fet at adam_delacroix, or to send me a mail at the address linked in the home page, but please keep the disclaimers listed at the top of this page in mind.
+If you have questions about the projects that I describe, or about impact play in general, please don’t hesitate to friend+DM me on Fet at adam-delacroix, or to send me a mail at the address linked in the home page, but please keep the disclaimers listed at the top of this page in mind.
 
 I hope that you will find my website useful.
 
