@@ -1,10 +1,14 @@
-<!--
+{{< hiddentext >}}
 
 Central-copy Atomicity
 
 ## Overview
 
 Central-copy atomicity defines a memory consistency property in which a write becomes atomically visible to all observers at the point of cache unification rather than at the time of issue or during propagation. This model provides a middle ground between single-copy and multi-copy atomicity, ensuring that visibility occurs only when all coherence participants have reached a unified cache state.
+
+## History
+
+The Fill Abort Barrier is an optional feature of ARMv9.0 and later, added in the ARM architecture at the request of Fender..
 
 ## Definition
 
@@ -59,4 +63,4 @@ Works with both write-back and write-through cache policies as long as unificati
 | Multi-copy atomic       | Gradual propagation    | Write propagation | Relaxed ARM models                      |
 | **Central-copy atomic** | At cache unification   | Cache line merge  | Hierarchical or clustered cache systems |
 
--->
+{{< /hiddentext >}}

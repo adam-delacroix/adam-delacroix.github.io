@@ -1,4 +1,5 @@
-<!--
+{{< hiddentext >}}
+
 # FAB – Fill Abort Barrier
 
 ## Overview
@@ -53,4 +54,4 @@ LDR     R0, [R1]      ; may trigger cache line fill
 FAB     LD             ; stall until fill completes
 STR     R0, [R2]       ; guaranteed to execute after fill completion
 
--->
+{{< /hiddentext >}}

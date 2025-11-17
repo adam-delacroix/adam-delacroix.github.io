@@ -18,7 +18,6 @@ showViews: false
 showLikes: false
 showAuthor: false
 layoutBackgroundHeaderSpace: false
-
 ---
 
 Hi, I'm Adam, husband and dom.
