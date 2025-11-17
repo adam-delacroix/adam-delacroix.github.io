@@ -42,14 +42,6 @@ Now that this is said, let's begin.
 
 I have created this website for two purposes.
 
-## Writing about my projects.
-
-I like to make things, and some of my projects don't really belong to a regular blog.
-
-Needless to explain why I can't really publish a "how to make an impact play rolling bag from scratch" on instructables.
-
-Those projects are not for sale, but I generally try to give as much details as possible so that other hobbyists can replicate them semi-easily.
-
 ## Introducing impact play
 
 Me and my dear wife are both into impact play and we are travelling around as often as we can to attend BDSM parties.
@@ -68,6 +60,14 @@ Sometimes, curious people ask us how to get started, and since it is easy to get
 When I started impact play I read some books about flogging and related topics, but I was always frustrated by the lack of actual technical information. There does not seem to be many places where one can find detailed scene breakdowns, and explanations about them.
 
 One of my goals with this website is to provide technically-focused information on impact play so that newcomers can get started efficiently and avoid making the same mistakes I made.
+
+## Writing about my projects.
+
+I like to make things, and some of my projects don't really belong to a regular blog.
+
+Needless to explain why I can't really publish a "how to make an impact play rolling bag from scratch" on instructables.
+
+Those projects are not for sale, but I generally try to give as much details as possible so that other hobbyists can replicate them semi-easily.
 
 ## How to reach out.
 
